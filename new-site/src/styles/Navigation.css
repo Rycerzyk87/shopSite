@@ -19,4 +19,5 @@ nav.main a:hover{
 
 nav.main a.active {
     color: white;
+    border-left: 10px red solid;
 }
