@@ -10,12 +10,15 @@ div.app {
 
 header{
     flex-basis: 30vh;
+    background-color: grey;
 }
 aside {
     min-width: 240px;
+    background-color: grey;
 }
 .blog{
     flex-grow: 1;
+    background-color: blue;
 }
 main{
     display: flex;
