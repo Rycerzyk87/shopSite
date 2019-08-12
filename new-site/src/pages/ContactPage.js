@@ -1,5 +1,6 @@
 import React from 'react';
 import '../styles/ContactPage.css';
+import { Prompt } from 'react-router-dom';
 
 class ContactPage extends React.Component {
     state = {
@@ -26,6 +27,7 @@ class ContactPage extends React.Component {
                         <textarea value={this.state.value} onChange={this.handleChange} placeholder="Zostaw nam wiadomość"></textarea>
                         <button on>Wyślij</button>
                     </form>
+                    <Prompt when={this.state.value} message="Wiadomość nie została wysłana, czy chcesz opuścić stronę?" />
                 </div>
             </>
         );
