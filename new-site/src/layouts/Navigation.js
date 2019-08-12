@@ -6,7 +6,7 @@ const list = [
     { name: "start", path: "/", exact: true },
     { name: "produkty", path: "/products" },
     { name: "kontakt", path: "/contact" },
-    { name: "panel admin", path: "/admin" },
+    { name: "panel klienta", path: "/client" },
 ]
 const Navigation = () => {
     const menu = list.map(item => (
