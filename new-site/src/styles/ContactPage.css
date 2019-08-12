@@ -1,0 +1,21 @@
+.contact textarea {
+    font-size: 16px;
+    width: 80%;
+    min-height: 160px;
+    margin: 20px 0;
+    line-height: 1.6;
+}
+.contact button{
+    display: block;
+    margin: 0 20% 0 auto;
+    border: 2px solid black;
+    padding: 10px 20px;
+    cursor: pointer;
+    font-size: 20px;
+    transition: 0.2s; 
+}
+.contact button:hover {
+    color: gray;
+    background-color: black;
+    border:2px solid gray;
+}

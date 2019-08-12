@@ -18,7 +18,7 @@ aside {
 }
 .blog{
     flex-grow: 1;
-    background-color: blue;
+    padding-left: 15px;
 }
 main{
     display: flex;
