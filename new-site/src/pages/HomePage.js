@@ -4,20 +4,20 @@ import Article from '../components/Article';
 const articles = [
     {
         id: 1,
-        title: "Lorem ipsum 1",
-        author: "Paulo Cohelo",
-        text: "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenaslentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultrlentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultr malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula."
+        title: "Ogórek - wartości odżywcze i właściwości zdrowotne",
+        author: "Anna Kowalczyk",
+        text: "Ogórek cenimy przede wszystkim za orzeźwiający, delikatny smak. Ogórki są popularnym dodatkiem do sałatek lub kanapek, chociaż mało kto pamięta, że warzywa te kradną witaminę C z innych produktów, utleniając ten składnik. Nie warto więc łączyć ich z pomidorami czy papryką (chyba, że wytworzymy między nimi 'barierę', np. zrobimy surówkę ze śmietaną, jogurtem, olejem). Ogórki mają jednak wiele innych zalet. Przekonajmy się, dlaczego ogórki należy jeść częściej."
     },
     {
         id: 2,
-        title: "Lorem ipsum 2",
-        author: "Paulo Cohelo II",
-        text: "Lorem ipsum dolor sit amet enim. Etiam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula."
+        title: "Właściwości dyni – 6 powodów by jeść dynię",
+        author: "Magdalena Olszewska",
+        text: "Dynia to bardzo smaczne a zarazem jedno z najbardziej odżywczych warzyw! Jest pełna witamin i przeciwutleniaczy.Czy wiesz, że istnieje ponad 45 odmian dyni? Małe, średnie, duże i prawdziwe giganty. Wbrew powszechnemu przekonaniu, nie wszystkie dynie są pomarańczowe, wiele z nich jest zielona, biała czy brązowa.  Jedną z moich ulubionych dyń jest dynia hokkaido, której w przeciwieństwie do innych odmian nie trzeba nawet obierać ze skóry."
     }, {
         id: 3,
-        title: "Lorem ipsum 3",
-        author: "Paulo Cohelo III",
-        text: "Lorem ipsum dolor sit amet enim. Etlentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultriam ullamcorper. Suspendisse a pellentesque dui, non felis. Maecenas malesuada elit lectus felis, malesuada ultricies. Curabitur et ligula."
+        title: "CEBULA - właściwości lecznicze. Cebula dobra na przeziębienie, kaca i zaparcia",
+        author: "Bożena Zwolińska | Monika Majewska ",
+        text: "Cebula to warzywo, którego właściwości lecznicze są znane są od wieków. W medycynie ludowej wywar z cebuli zalecany był w chorobach reumatycznych, syrop przy przeziębieniach, zaś wąchanie surowej cebuli odkażało zakatarzony nos i drogi oddechowe. Przez całe stulecia cebula należała do najcenniejszych leków przeciwszkorbutowych, czyli ostrych braków witaminy C. Zabierali ją w dalekie rejsy marynarze, kupcy, wielorybnicy. I choć cebula nie należy do najbogatszych źródeł tej witaminy, to jednak jej dostępność i skuteczność działania sprawiały, że należała do stałego zaprowiantowania wypraw. Zawdzięczała to przede wszystkim silnym bakteriobójczym substancjom, które potrafią zniszczyć bakterie, oporne na działanie antybiotyków. Ponadto pod łuskami cebuli kryje się fosfor, magnez, siarka, cynk oraz krzem, a wiec minerały wzmacniające ogólną odporność organizmu na różne infekcje i choroby. Jednak cebula to nie tylko sprawdzony sposób na przeziębienie."
     }
 ]
 

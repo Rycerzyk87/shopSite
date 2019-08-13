@@ -3,7 +3,7 @@ import { Link } from 'react-router-dom';
 
 import '../styles/ProductListPage.css';
 
-const products = ["Tomato", "Cucumber", "Pumpkin", "Onion"]
+const products = ["Pomidor", "Ogórek", "Dynia", "Cebula"]
 
 const PorductListPage = () => {
     const list = products.map(product => (

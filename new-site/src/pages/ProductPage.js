@@ -3,11 +3,12 @@ import Product from '../components/Product';
 import { Link } from 'react-router-dom';
 
 
-const ProductPage = () => {
+const ProductPage = ({ match }) => {
+
     return (
         <>
             <div>Strona produktu</div>
-            <ProductPage />
+            <Product id={match.params.id} />
             <Link to="/products">Powrót do listy</Link>
         </>
     );

@@ -4,6 +4,13 @@
     min-height: 160px;
     margin: 20px 0;
     line-height: 1.6;
+    font-family: 'open sans', arial, sans-serif;
+}
+.contact input{
+    font-size: 16px;
+    margin: 20px 0;
+    line-height: 1.6;
+    padding-left: 0;
 }
 .contact button{
     display: block;
