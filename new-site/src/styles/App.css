@@ -34,3 +34,21 @@ footer{
     text-align: center;
     text-transform: uppercase;
 }
+
+.backButton{
+ display: block;
+ width: 300px;
+ text-decoration: none;
+ color:black;
+ background-color: #ddd;
+ margin-top: 40px; 
+border: 2px solid black;
+    padding: 5px 20px;
+    cursor: pointer;
+    font-size: 20px;
+}
+.backButton:hover{
+    color: gray;
+    background-color: black;
+    border:2px solid gray;
+}
