@@ -5,12 +5,13 @@ const Footer = () => {
     return (
         <div className="main">
 
-            <div clssName="links">
-                <span>adres.......</span>
-                <a href="www.facebook.pl">F</a>
-                <a href="www.instagram.pl">I</a>
-                <a href="www.google.pl">G</a>
-                <a href="www.twitter.pl">G</a>
+            <div className="links">
+                <span className="adress">3604  Golden Ridge Road Schenectady NY 12303</span>
+                <a href="www.facebook.pl" class="fa fa-facebook"></a>
+                <a href="www.instagram.pl" class="fa fa-instagram"></a>
+                <a href="www.google.pl" class="fa fa-google"></a>
+                <a href="www.twitter.pl" class="fa fa-twitter"></a>
+                <span className="reserved">Copyright © 2019 Design Rycerzyk87</span>
             </div>
         </div>
     )
