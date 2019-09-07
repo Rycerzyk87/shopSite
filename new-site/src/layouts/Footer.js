@@ -7,10 +7,10 @@ const Footer = () => {
 
             <div className="links">
                 <span className="adress">3604  Golden Ridge Road Schenectady NY 12303</span>
-                <a href="www.facebook.pl" class="fa fa-facebook"></a>
-                <a href="www.instagram.pl" class="fa fa-instagram"></a>
-                <a href="www.google.pl" class="fa fa-google"></a>
-                <a href="www.twitter.pl" class="fa fa-twitter"></a>
+                <a href="https://pl-pl.facebook.com" class="fa fa-facebook" target="_blank"> </a>
+                <a href="https://www.instagram.com" class="fa fa-instagram" target="_blank" > </a>
+                <a href="https://www.google.pl" class="fa fa-google" target="_blank"> </a>
+                <a href="https://twitter.com" class="fa fa-twitter" target="_blank"> </a>
                 <span className="reserved">Copyright © 2019 Design Rycerzyk87</span>
             </div>
         </div>
