@@ -16,7 +16,7 @@ const articles = [
     }, {
         id: 3,
         title: "CEBULA - właściwości lecznicze. Cebula dobra na przeziębienie, kaca i zaparcia",
-        author: "Bożena Zwolińska | Monika Majewska ",
+        author: "Bożena Zwolińska | Monika Majewska",
         text: "Cebula to warzywo, którego właściwości lecznicze są znane są od wieków. W medycynie ludowej wywar z cebuli zalecany był w chorobach reumatycznych, syrop przy przeziębieniach, zaś wąchanie surowej cebuli odkażało zakatarzony nos i drogi oddechowe. Przez całe stulecia cebula należała do najcenniejszych leków przeciwszkorbutowych, czyli ostrych braków witaminy C. Zabierali ją w dalekie rejsy marynarze, kupcy, wielorybnicy. I choć cebula nie należy do najbogatszych źródeł tej witaminy, to jednak jej dostępność i skuteczność działania sprawiały, że należała do stałego zaprowiantowania wypraw. Zawdzięczała to przede wszystkim silnym bakteriobójczym substancjom, które potrafią zniszczyć bakterie, oporne na działanie antybiotyków. Ponadto pod łuskami cebuli kryje się fosfor, magnez, siarka, cynk oraz krzem, a wiec minerały wzmacniające ogólną odporność organizmu na różne infekcje i choroby. Jednak cebula to nie tylko sprawdzony sposób na przeziębienie."
     }
 ]

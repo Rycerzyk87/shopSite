@@ -7,7 +7,7 @@ const products = ["Pomidor", "Ogórek", "Dynia", "Cebula"]
 
 const PorductListPage = () => {
     const list = products.map(product => (
-        <li>
+        <li key={product}>
             <Link to={`/product/${product}`}>{product}</Link>
         </li>
     ))
