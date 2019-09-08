@@ -9,6 +9,10 @@ import Footer from './Footer';
 
 
 class App extends Component {
+  componentDidMount() {
+    setTimeout(function () { alert("Trochę długo tu siedzisz co?"); }, 3000);
+  }
+
   render() {
     return (
       <Router>

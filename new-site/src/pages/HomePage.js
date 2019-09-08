@@ -24,7 +24,10 @@ const articles = [
 const HomePage = () => {
     const artlist = articles.map(article => (
         <Article key={article.id} {...article} />
+
     ))
+
+
     return (
         <div className="home">{artlist}</div>
     );
