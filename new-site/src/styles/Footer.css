@@ -1,6 +1,8 @@
 .main{
     display: flex;
-    justify-content: space-around
+    justify-content: space-around;
+    color: grey;
+    font-weight: 400;
 }
 .adress{
     display: inline-block;
@@ -9,7 +11,11 @@
 .links a {
     margin-left: 25px;
     text-decoration: none;
+    color: blue;
 }
+a:link {
+    color: blue;
+  }
 
 .fa {
     padding: 20px;
