@@ -1,0 +1,11 @@
+.wrapper{
+    text-align: center;
+}
+.mainClock{
+    margin: 15px 0 10px 30px;
+    background-color: whitesmoke;
+    color: black;
+    border: 2px black solid;
+    border-radius: 10px;
+    font-family: 'Lora', serif;
+}

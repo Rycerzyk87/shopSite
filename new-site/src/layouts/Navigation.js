@@ -19,8 +19,9 @@ const Navigation = () => {
     return (
         <nav className="main">
             <ul>
-                <Clock />
+
                 {menu}
+                <Clock />
             </ul>
         </nav>
     )

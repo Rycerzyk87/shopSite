@@ -1,6 +1,7 @@
 import React, { Component } from "react";
+import "../styles/Clock.css";
 
-class Watch extends Component {
+class Clock extends Component {
 
     state = {
         date: new Date(),
@@ -21,7 +22,7 @@ class Watch extends Component {
         return (
             <>
                 <div className="wrapper">
-                    <div className="mainApp">
+                    <div className="mainClock">
                         <ClockTime date={this.state.date} />
                         <ClockDate date={this.state.date} />
                     </div>
@@ -63,8 +64,8 @@ function ClockDateDay({ date }) {
 }
 
 
-function Clock() {
-    return <Watch />;
-}
+// function Clock() {
+//     return <Watch />;
+// }
 
 export default Clock;
