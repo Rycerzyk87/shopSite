@@ -23,7 +23,7 @@ const articles = [
 
 const HomePage = () => {
     const artlist = articles.map(article => (
-        <Article key={article.id} {...article} />
+        <Article className="article" key={article.id} {...article} />
 
     ))
 
