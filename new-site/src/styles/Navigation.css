@@ -4,6 +4,9 @@ nav {
 ul{
     list-style: none;
 }
+.watch{
+    color: red;
+}
 nav.main a{
     display: block;
     text-decoration: none;

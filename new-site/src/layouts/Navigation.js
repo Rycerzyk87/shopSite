@@ -1,4 +1,5 @@
 import React from 'react';
+import Clock from '../pages/Clock.js';
 import { NavLink } from 'react-router-dom';
 import "../styles/Navigation.css";
 
@@ -18,6 +19,7 @@ const Navigation = () => {
     return (
         <nav className="main">
             <ul>
+                <Clock />
                 {menu}
             </ul>
         </nav>
