@@ -21,7 +21,7 @@ aside {
     padding-left: 15px;
 }
 main{
-    display: flex;
+    /* display: flex; */
     flex-grow: 1;
     padding: 30px 0;
     
