@@ -1,5 +1,8 @@
 article {
     margin-top: 40px;
+    margin-bottom: 20px;
+    margin-right: 20px;
+    /* margin: 40px auto 20px auto; */
     padding: 10px;
     background-color: #cccccc;
 }
