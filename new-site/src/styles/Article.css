@@ -3,18 +3,18 @@ article {
     margin-bottom: 20px;
     margin-right: 20px;
     /* margin: 40px auto 20px auto; */
-    padding: 10px;
-    background-color: #cccccc;
+    padding: 11px;
+    background-color: #ccccccec;
 }
 
 h3{
-    margin-bottom: 3px;
+    margin-bottom: 4px;
     text-transform: uppercase;
 }
 span{
     display: block;
     margin-bottom: 10px;
-    font-size: 12px;
+    font-size: 13px;
 }
 p{
     font-size: 15px;

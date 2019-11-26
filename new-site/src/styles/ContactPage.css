@@ -15,7 +15,7 @@
 .contact button{
     display: block;
     margin: 0 20% 0 auto;
-    border: 2px solid black;
+    border: 2px solid rgba(0, 0, 0, 0.904);
     padding: 10px 20px;
     cursor: pointer;
     font-size: 20px;
@@ -23,6 +23,6 @@
 }
 .contact button:hover {
     color: gray;
-    background-color: black;
+    background-color: rgba(0, 0, 0, 0.904);
     border:2px solid gray;
 }

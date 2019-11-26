@@ -11,10 +11,10 @@
 .links a {
     margin-left: 25px;
     text-decoration: none;
-    color: blue;
+    color: rgba(0, 0, 255, 0.932);
 }
 a:link {
-    color: blue;
+    color: rgba(0, 0, 255, 0.932);
   }
 
 .fa {

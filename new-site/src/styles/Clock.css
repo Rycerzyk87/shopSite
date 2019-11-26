@@ -4,8 +4,8 @@
 .mainClock{
     margin: 15px 0 10px 30px;
     background-color: whitesmoke;
-    color: black;
-    border: 2px black solid;
+    color: rgba(0, 0, 0, 0.904);
+    border: 2px rgba(0, 0, 0, 0.904) solid;
     border-radius: 10px;
-    font-family: 'Lora', serif;
+    font-family: 'Lora', non-serif;
 }
