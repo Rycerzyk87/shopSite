@@ -1,5 +1,4 @@
 import React from 'react';
-// import Clock from '../pages/Clock.js';
 import { NavLink } from 'react-router-dom';
 import "../styles/Navigation.css";
 

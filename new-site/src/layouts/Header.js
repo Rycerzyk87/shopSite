@@ -12,7 +12,6 @@ const Header = () => {
                 <Route path="/products" render={() => (<img src={header2} alt="orange" />)} />
                 <Route path="/contact" render={() => (<img src={header1} alt="broccoli" />)} />
                 <Route path="/admin" render={() => (<img src={header1} alt="broccoli" />)} />
-                {/* na dole route do error 404 */}
                 <Route render={() => (<img src={header3} alt="vege" />)} />
             </Switch>
 
