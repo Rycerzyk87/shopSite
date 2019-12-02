@@ -18,9 +18,7 @@ const Navigation = () => {
     return (
         <nav className="main">
             <ul>
-
                 {menu}
-                {/* <Clock /> */}
             </ul>
         </nav>
     )
