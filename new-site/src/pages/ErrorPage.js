@@ -4,7 +4,7 @@ const ErrorPage = () => {
     return (
         <>
             <div className="errorMessage">Podana strona nie istnieje ;-(</div>
-            <a href="/" className="backButton">Powrót na stronę główną</a>
+            <a href="/" className="backButton">Strona główna</a>
         </>
     );
 }

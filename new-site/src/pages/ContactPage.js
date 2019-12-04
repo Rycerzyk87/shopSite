@@ -37,7 +37,7 @@ class ContactPage extends React.Component {
                         <textarea value={this.state.value} onChange={this.handleChange} placeholder="Zostaw nam wiadomość"></textarea>
                         <button on>Wyślij</button>
                     </form>
-                    <Prompt when={this.state.value} message="Uwaga! Wiadomość nie została wysłana, czy chcesz opuścić stronę?" />
+                    <Prompt when={this.state.value} message="Uwaga!!! Wiadomość nie została wysłana, czy chcesz opuścić stronę?" />
                 </div>
             </>
         );
