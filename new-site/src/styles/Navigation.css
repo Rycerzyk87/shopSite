@@ -21,10 +21,6 @@ nav.main a{
     padding: 10px;
     transition: 0.2s;
 }
-nav.main a:hover{
-
-}
-
 nav.main a.active {
     
     color: white;
