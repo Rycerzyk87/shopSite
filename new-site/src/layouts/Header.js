@@ -1,7 +1,10 @@
 import React from 'react';
 import { Route, Switch } from 'react-router-dom';
+
 import header1 from '../images/salad.jpg';
+
 import header2 from '../images/grapefruit.jpg';
+
 import header3 from '../images/vegetables.jpg';
 
 const Header = () => {
