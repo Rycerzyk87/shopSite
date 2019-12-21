@@ -6,20 +6,20 @@ nav.main{
 }
 ul{
     list-style: none;
-    width: 90%;
+    width: 80%;
 }
 nav.main li{
     display: inline-block;
-    width: 22%;
+    width: 20%;
 }
 nav.main a{
     display: inline-block;
     text-decoration: none;
     color: black;
     text-transform: uppercase;
-    font-weight: bold;
+    font-weight: 600;
     padding: 10px;
-    transition: 0.2s;
+    transition: 0.25s;
 }
 nav.main a.active {
     
