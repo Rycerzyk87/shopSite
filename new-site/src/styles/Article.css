@@ -2,7 +2,7 @@ article {
     margin-top: 40px;
     margin-bottom: 20px;
     margin-right: 20px;
-    padding: 12px;
+    padding: 10px;
     background-color: #cdcdccdc;
 }
 
@@ -16,5 +16,5 @@ span{
     font-size: 12px;
 }
 p{
-    font-size: 14px;
+    font-size: 12px;
 }
